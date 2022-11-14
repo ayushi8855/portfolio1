@@ -31,7 +31,7 @@ function Projects() {
               description="Pluralsight, Inc. is an American privately held online education company that offers a variety of video training courses for software developers, IT administrators, and creative professionals through its website."
               tech="Tech-Stacks"
               techD="Html | Javascript | CSS | Boostrap  "
-              link="https://pluralsight-c.netlify.app/"
+              link="https://magnificent-blancmange-2320fc.netlify.app/"
               a="https://github.com/rajujai/pluralsight_clone.git"
             />
           </Col>
