@@ -43,7 +43,7 @@ function Projects() {
               description="Clone of website fastrack ,Fastrack is leading brand of India and sub brand of titan, you can shop multiple product of fastrack like watches, perfumes, goggles"
               tech="Tech-Stacks"
               techD=" HTML | CSS | Javascript | React | Node.js"
-              link="https://fastrackfast.netlify.app/"
+              link="https://graceful-paprenjak-4dc123.netlify.app/"
               a="https://github.com/ayushi8855/fastrack.git"
             />
           </Col>
