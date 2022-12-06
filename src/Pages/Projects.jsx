@@ -15,7 +15,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={6} className="project-card" >
             <ProjectCards
-              imgPath="https://www.linkpicture.com/q/Screenshot-143.png"
+              imgPath="/images/smallcase.png"
               title="Smallcase clone"
               description="This website is an online platform that invests in model portfolios of stocks, Exchange-traded funds, REITs, etc. a theme or a strategy. On this website, An investor can create its own model portfolio (smallcases) or invest in professionally managed smallcases created by SEBI registered entities or individuals such as research analysts, registered investment advisors (RIA) etc."
               tech="Tech-Stacks"
