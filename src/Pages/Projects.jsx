@@ -20,7 +20,7 @@ function Projects() {
               description="This website is an online platform that invests in model portfolios of stocks, Exchange-traded funds, REITs, etc. a theme or a strategy. On this website, An investor can create its own model portfolio (smallcases) or invest in professionally managed smallcases created by SEBI registered entities or individuals such as research analysts, registered investment advisors (RIA) etc."
               tech="Tech-Stacks"
               techD="Html | Javascript | Node.js | Css | MongoDb | Express "
-              link="https://smallcase7171.netlify.app/"
+              link="https://unrivaled-sprite-4474e0.netlify.app/"
               a="https://github.com/atin-sahu/smallcase-frontend-.git"
             />
           </Col>
