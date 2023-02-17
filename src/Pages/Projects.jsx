@@ -38,7 +38,7 @@ function Projects() {
 
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://www.linkpicture.com/q/Screenshot-302_2.png"
+              imgPath="/images/fastrack.png"
               title="Fastrack Clone"
               description="Clone of website fastrack ,Fastrack is leading brand of India and sub brand of titan, you can shop multiple product of fastrack like watches, perfumes, goggles"
               tech="Tech-Stacks"
