@@ -1,7 +1,6 @@
 form{
-   align-items: center;
-   justify-content: center;
-   display: flex;
+  margin: auto;
+  text-align: center;
  
 }
 .btn-1{
@@ -10,4 +9,18 @@ form{
     color: white;
     border: none;
     border-radius: 5px;
+}
+.con{
+    display: flex;
+    justify-content: center;
+}
+.emailcard{
+    width: 50%;
+  /* border: 1px solid black; */
+    margin: auto;
+ 
+}
+
+.email{
+    width: 90%;
 }

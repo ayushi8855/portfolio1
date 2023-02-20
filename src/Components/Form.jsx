@@ -18,9 +18,15 @@ const Form = () => {
 
     <div>
         <form  onSubmit={handleSubmit}>
-            <input type="text" placeholder='Name' className="tech-icons" onChange={handlechange} name="name"/>
-            <input type="text" placeholder='Email' className="tech-icons" onChange={handlechange} name="email"/>
+          <div className='con'>
+            <input type="text" placeholder='First Name' className="tech-icons" onChange={handlechange} name="first_name"/>
+            <input type="text" placeholder='Last Name' className="tech-icons" onChange={handlechange} name="last_name"/>
+          </div>
+           <div className='emailcard'>
+           <input type="text" placeholder='Email' className="tech-icons email" onChange={handlechange} name="email"/>
             <input type="submit" value="Send" className='btn-1' />
+           </div>
+           
         </form>
     </div>
   )
